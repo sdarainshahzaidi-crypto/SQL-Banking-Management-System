@@ -15,7 +15,7 @@ A Banking Management System built using SQL and PHP
 - Card Management
 - Loan Management
 - Transaction Management
-- 
+
 # Database
 Import 'bankdb.sql' into MySQL before runnin the project.
 
