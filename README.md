@@ -17,7 +17,15 @@ A Banking Management System built using SQL and PHP
 - Transaction Management
 
 # Database
-Import 'bankdb.sql' into MySQL before runnin the project.
+Import 'bankdb.sql' into MySQL before running the project.
+
+# How to run
+1. Install XAMPP.
+2. Copy the project into htdocs.
+3. Import bankdb.sql into phpMyAdmin.
+4. Start Apache and MySQL.
+5. Open http://localhost/BankDB_project/
+The Dashboard for banking management system will show.
 
 # Author
 Muhammad Darain Shah
